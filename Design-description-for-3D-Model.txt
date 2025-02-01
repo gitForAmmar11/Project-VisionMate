@@ -1,0 +1,19 @@
+Design Description for 3D Model: 
+
+    Frame Structure: A round-shaped frame with two circular lenses in the front. Ensure the frame allows for weight balance with the battery placed at the back.
+
+    => Right Side Components:
+        * Raspberry Pi 4 mounted on the right side of the frame.
+        * Pi Camera integrated with a slot facing forward for object detection.
+        * OLED display embedded into the right circular lens.
+        * Slot for GPS module and ToF sensor on the right side.
+
+    => Left Side Components:
+        * ESP32 attached to the left side of the frame.
+        * Slots for GSM module and a push button.
+
+    => Back of the Frame: A battery holder at the back of the frame for even weight distribution.
+
+    Adjustable Design: Adjustable strap or extendable parts for a secure fit./ regular head size(15 or 16)
+
+    Cable Management: Make the frame double-layered and the outer layer should be removable. In between, the layers should have half inches of gap. Keep in mind there are other components on both sides.
