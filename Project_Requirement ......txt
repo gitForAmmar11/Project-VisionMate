@@ -1,0 +1,21 @@
+Microcontrollers/Microprocessors
+- ESP-32S ESP-WROOM-32 Development Board 38p NodeMCU (https://store.roboticsbd.com/development-boards/1820-esp-32s-esp-wroom-32-development-board-38p-nodemcu-robotics-bangladesh.html)
+
+Sensors
+Camera: RPi IR-CUT Camera (B) Better Image in Both Day and Night, Camera sensor with night vision (https://store.roboticsbd.com/raspberry-pi/2388-rpi-ir-cut-camera-b-better-image-in-both-day-and-night-robotics-bangladesh.html)
+
+- For detecting movement. Time-of-Flight (ToF) - GY-VL53L0xV@V VL53L0X Time-of-Flight Distance Sensor Breakout Module (https://store.roboticsbd.com/sensors/554-gy-vl53l0xv2v-vl53l0x-time-of-flight-distance-sensor-breakout-module-robotics-bangladesh.html#idTab798)
+
+Actuators
+Shaftless Vibration Motor D42 (Coin Vibration Motor) - (https://store.roboticsbd.com/vibration-sensor-robotics-bangladesh/3034-shaftless-vibration-motor-d42-robotics-bangladesh.html)
+
+Gps module - GPS Module NEO-7M Satellite Positioning Module for Arduino with MicroUSB (https://store.roboticsbd.com/positioning-liquid-level/2396-gps-module-neo-7m-satellite-positioning-module-for-arduino-with-microusb-robotics-bangladesh.html)
+
+Gsm module: SIM800L Mini GPRS GSM Module
+(https://store.roboticsbd.com/communication-module/1039-sim800l-mini-gprs-gsm-module-robotics-bangladesh.html)
+
+Display Unit: 1.3 Inch SPI OLED Display Module (7 Pin, Blue) (https://store.roboticsbd.com/display/2050-13-inch-spi-oled-display-module-7pin-blue-robotics-bangladesh.html)
+
+Button: LilyPad Button Board (https://store.roboticsbd.com/development-boards/2243-lilypad-button-board-robotics-bangladesh.html)
+- 
+Speaker Unit: Stereo Enclosed Speaker 3W 8Ω (https://store.roboticsbd.com/sound-sensor-robotics-bangladesh/2307-stereo-enclosed-speaker-3w-8-robotics-bangladesh.html)
